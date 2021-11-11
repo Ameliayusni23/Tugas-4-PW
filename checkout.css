@@ -1,0 +1,17 @@
+body {
+    background-color : #9CEBB2;
+}
+
+.logo {
+    width : 20px;
+    height: 20px;
+}
+
+.icon {
+    text-align: left;
+}
+
+.col-head {
+    text-align: left;
+    text-decoration: bold;
+}
